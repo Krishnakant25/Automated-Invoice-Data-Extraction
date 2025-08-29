@@ -26,11 +26,13 @@ This n8n workflow automates the process of extracting data from invoices (PDFs o
 1. Import the provided JSON template into your n8n instance.  
 2. Configure your credentials (Google Drive, Google Sheets, OCR API key).  
 3. Run the workflow and upload invoices to your configured Drive folder.  
-4. Extracted data will appear in your linked Google Sheet.  
-
+4. Extracted data will appear in your linked Google Sheet.
+   
 ## 📜 License
 This project is shared under the MIT License for educational purposes.  
 _This workflow is inspired by a bootcamp project and adapted for portfolio use._  
 
 ## 🙌 Acknowledgments
 Special thanks to the [Codebasics AI Automation Bootcamp](https://codebasics.io/) for the guidance and learning resources.
+
+<img width="1184" height="491" alt="Invoice_data_extraction" src="https://github.com/user-attachments/assets/1de31508-4de2-4bb8-8365-8cb59aa70485" />
